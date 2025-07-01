@@ -1,1 +1,1 @@
-# autotests_course
+"homework for course"
